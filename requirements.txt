@@ -5,3 +5,5 @@ plotly
 openpyxl
 jinja2
 xlrd
+matplotlib
+seaborn
